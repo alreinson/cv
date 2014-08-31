@@ -7,6 +7,7 @@ Tallinn, Estonia -
 alreinson@gmail.com - sha.lalaaa.com	
 
 ### 9/2013 - present
+
 ### Creatum / *a full service creative advertising agency*
 
 ### Project manager
@@ -47,15 +48,19 @@ alreinson@gmail.com - sha.lalaaa.com
 
 
 ### 10/2011-10/2012
+
 ### [EUROPEAN CENTRAL BANK](http://www.ecb.europa.eu)
-###Frankfurt am Main, Germany
+
+### Frankfurt am Main, Germany
 
 
 *The main emphasis of my work at the ECB was on the Euro banknotes as a product. This included the currency changeover information campaign in Estonia and from then on the launch of the new (second series) Euro banknotes in 2012.*
 
 
-### Directorate General Secretariat and Language Services 
+### Directorate General Secretariat and Language Services
+ 
 ### Senior Administrative Language Assistant
+
 ### 1 year
 
 [**Second series of Euro banknotes Pan-European advertising campaign:**](new-euro-banknotes.eu)
