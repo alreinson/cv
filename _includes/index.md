@@ -8,7 +8,7 @@ alreinson@gmail.com - sha.lalaaa.com
 
 ### 9/2013 - present
 
-Creatum / *a full service creative advertising agency*
+### Creatum / *a full service creative advertising agency*
 
 ### Project manager
 
