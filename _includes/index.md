@@ -1,8 +1,5 @@
 
 
-## Anna-Liisa's test test CV page
-
-
 Tallinn, Estonia -
 alreinson@gmail.com - sha.lalaaa.com	
 
