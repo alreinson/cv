@@ -1,15 +1,57 @@
 
 
-[Solo](http://solo.chibi.io) is a Jekyll LALALAAA theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+# Anna-Liisa's test test CV page
 
-<iframe src="http://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
 
-## Solo is useful if...
+Tallinn, Estonia -
+alreinson@gmail.com - sha.lalaaa.com	
 
-* You want to create an "about me" page from a single markdown file and host it under a custom domain name.
-* You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
-* You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
+####Creatum / a full service creative advertising agency <br>
+##### Project manager<br>
+#####Tallinn, Estonia
+
+
+* I have expanded the agency’s subcontractor network which has helped us lower production costs by an average of 20%, while not compromising on quality;
+* I have managed 6 public sector communication campaigns with an average budget of 55 000€ as well as around 50 private sector projects;
+* Implemented social media as a new channel in the sales campaigns of 2 of our most well known brands, which helped raise sales numbers by 12% and 20%;
+* I am now in the process of implementing Basecamp as the main communication tool in order to streamline workflow between the creative team and the client;
+* I received feedback that I have greatly improved communication between the creative team and the management as well as within the creative team itself;
+* During the time I have been working at the agency, its revenue has improved by 35%.
+
+On a daily basis I manage a creative team of 4-7 people and an average of 8 different advertising and communication projects at a time. Within a typical project cycle from beginning to completion I am responsible for: 
+
+
+* Interviewing the client to gain an understanding of their goals and limitations;
+* Taylor making a campaign strategy and preparing the budget;
+* Pitching ideas and receiving client approval;
+* Maintaining and mediating client-agency communication;
+* Monitoring and analysing workflow;
+* Invoicing.
+<br>
+
+
+* Determining project costs;
+* Preparing a project plan and keeping a backlog;
+* Outlining technical requirements;
+* Briefing the creative team;
+* Troubleshooting;
+* Quality control for creative materials;
+* Conveying client feedback to the creative team or subcontractors;
+* Keeping projects on deadline and on budget;
+* Supporting and motivating team members.
+<br>
+
+
+* Production negotiations and management (e.g. printed matter, digital advertising, TV- or radio advertisements, BTL deliverables);
+* Monitoring and analysing campaign effectiveness (e.g. Google Analytics; CTR; SEO efficiency etc.) and making adjustments as needed;
+* Commissioning an ex post analysis on campaign effectiveness;
+* Writing the final campaign report and/or case study;
+* Interviewing clients for feedback.
+* I am responsible for all social media management and strategy;
+* I manage the majority of digital media and web development projects.
+
+
+u want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
 * You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
 
 This page itself is built with Solo. It's generated from [this markdown file](https://github.com/chibicode/solo/blob/gh-pages/_includes/index.md).
