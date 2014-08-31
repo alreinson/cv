@@ -88,7 +88,8 @@ alreinson@gmail.com - sha.lalaaa.com
 * Monitored the weekly advertising campaign efficiency reports;
 * Commissioned and analysed the mid- and post- campaign public awareness surveys;
 * Facilitated the production process of campaign deliverables: 
-* developing of the communications plan; ▪ development of web- and print publications;
+* developing of the communications plan; 
+* development of web- and print publications;
 * Supported the organising of the PR events launching the Euro Campaign;
 * Responsible for the distribution of campaign materials to all EU countries;
 * Assisted in organising the children’s educational “Euro Run” competition in Estonia: development of text and the design of the promotional material; organising of the PR event;
