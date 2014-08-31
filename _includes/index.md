@@ -1,14 +1,16 @@
 
 
-# Anna-Liisa's test test CV page
+## Anna-Liisa's test test CV page
 
 
 Tallinn, Estonia -
 alreinson@gmail.com - sha.lalaaa.com	
 
-####Creatum / *a full service creative advertising agency* <br>
-#### Project manager<br>
-####Tallinn, Estonia
+### Creatum / *a full service creative advertising agency*
+
+### Project manager
+
+### Tallinn, Estonia
 
 
 * I have expanded the agency’s subcontractor network which has helped us lower production costs by an average of 20%, while not compromising on quality;
