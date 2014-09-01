@@ -1,5 +1,5 @@
 Tallinn, Estonia -
-anna-liisa@reinson.ee - [sha.lalaaa.com](www.sha.lalaaa.com	)
+anna-liisa@reinson.ee - [sha.lalaaa.com](http://www.sha.lalaaa.com	)
 
 
 > Hello, thank you for finding your way here. This will eventually be an introduction of some kind. 
@@ -8,7 +8,7 @@ anna-liisa@reinson.ee - [sha.lalaaa.com](www.sha.lalaaa.com	)
 
 ### 9/2013 - present
 
-### [Creatum](www.creatum.ee/en) / Project manager 
+### [Creatum](http://www.creatum.ee/en) / Project manager 
 
 ### Tallinn, Estonia
 
@@ -88,7 +88,7 @@ anna-liisa@reinson.ee - [sha.lalaaa.com](www.sha.lalaaa.com	)
 * Assisted in organising the monthly press conferences and training events for journalists;
 * Supported Press Officers with media monitoring in Estonian, Russian and Finnish.
 
-[**Second series of Euro banknotes Pan-European campaign:**](new-euro-banknotes.eu)
+[**Second series of Euro banknotes Pan-European campaign:**](http://new-euro-banknotes.eu)
 
 
 * Assisted in the development of project plan and budget, media plan timeline and communications strategy.
