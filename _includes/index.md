@@ -94,18 +94,20 @@ alreinson@gmail.com - sha.lalaaa.com
 
 
 ### 03/2008-07/2010
-### Estonian Leasing Association / Webmaster ### Tallinn, Estonia
+
+### Estonian Leasing Association / Webmaster 
+### Tallinn, Estonia
 
 *The Estonian Leasing Association unites nearly 95% of the companies in the Estonian leasing market. Their website provides guidelines and updated information for the consumer and internal infomation for the members of the Association.*
 
 ### 02/2004-08/2013
+
 ### Graphic Designer / Freelance 
 
 * Web and CVI design; * Photo editing.## Education
-###_______________________________________
 ### 2007-2010
-###Tallinn University / Advertising and Publicity studies, BA*Topic of Thesis: “Developing a communication strategy for The Estonian Children’s Fund”*
-*Finished within the top 10%.*## Training
+###Tallinn University / Advertising and Publicity studies, BA
+*Topic of Thesis: “Developing a communication strategy for The Estonian Children’s Fund”**Finished within the top 10%.*## Training
 03/2014 - “Media & PR” – by Alberto Canteli (CEO Havas Media Group Nordics, CEE & Middle East)03/2014 - “Copywriting, Television and Radio” - by Alfred Koblinger (CEO BBDO Group Austria)
 06/2012 - Presentation skills – by De Bruine Ashby
 04/2012 - Financial training – by CLS Communication
