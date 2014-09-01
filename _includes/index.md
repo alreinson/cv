@@ -70,6 +70,7 @@ alreinson@gmail.com - sha.lalaaa.com
 ### 08/2010-08/2011
 
 ### [EUROPEAN CENTRAL BANK](http://www.ecb.europa.eu) / Directorate Communications / Trainee 
+### Frankfurt am Main
 
 *The trainee position was initially created for 6 months to cover the currency changeover information campaign in Estonia, but was extended to full term to include the new series of Euro banknotes campaign preparations.*
 
