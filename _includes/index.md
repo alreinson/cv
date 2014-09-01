@@ -9,6 +9,7 @@ alreinson@gmail.com - sha.lalaaa.com
 ### 9/2013 - present
 
 ### [Creatum](www.creatum.ee/en) / Project manager 
+
 ### Tallinn, Estonia
 
 *Creatum is a full service creative advertising agency. As a project manager I manage a creative team of 4-7 people and an average of 8 different projects at a time. Within a typical project cycle from beginning to completion I am responsible for:* 
