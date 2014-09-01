@@ -6,6 +6,8 @@ alreinson@gmail.com - sha.lalaaa.com
 
 > Hello, thank you for finding your way here. This will eventually be an introduction of some kind. 
 
+## Experience
+
 ### 9/2013 - present
 
 ### [Creatum](www.creatum.ee/en) / Project manager / Tallinn, Estonia
@@ -43,12 +45,12 @@ alreinson@gmail.com - sha.lalaaa.com
 
 ### 10/2011-10/2012
 
-### [EUROPEAN CENTRAL BANK](http://www.ecb.europa.eu) / Frankurt am Main, Germany
+### [EUROPEAN CENTRAL BANK](http://www.ecb.europa.eu) / Directorate General Secretariat and Language Services / Senior Administrative Language Assistant
 
-*The main emphasis of my work at the ECB was on the Euro banknotes as a product. This included the currency changeover information campaign in Estonia and from then on the launch of the new (second series) Euro banknotes in 2012.*
+### Frankurt am Main, Germany
 
+*The main emphasis of my work at the Language Services division was on the preparation stage for the launch of the new (second series) Euro banknotes in 2012. My general tasks also included managing all Estonian, Hungarian, German and Danish language projects.*
 
-### Directorate General Secretariat and Language Services / Senior Administrative Language Assistant / 1 year
 
 [**Second series of Euro banknotes Pan-European advertising campaign:**](new-euro-banknotes.eu)
 
@@ -65,7 +67,11 @@ alreinson@gmail.com - sha.lalaaa.com
 * Tested new software solutions;
 * Assisted in the language adaptation of educational computer games;
 
-### Directorate Communications / Trainee / 1 year
+### 08/2010-08/2011
+
+### [EUROPEAN CENTRAL BANK](http://www.ecb.europa.eu) / Directorate Communications / Trainee 
+
+*The trainee position was initially created for 6 months to cover the currency changeover information campaign in Estonia, but was extended to full term to include the new series of Euro banknotes campaign preparations.*
 
 [**Euro Campaign Estonia 2011:**](https://www.ecb.europa.eu/euro/changeover/estonia/html/index.en.html)
 
@@ -87,4 +93,49 @@ alreinson@gmail.com - sha.lalaaa.com
 * Assisted in the development of project plan and budget, media plan timeline and communications strategy.
 
 
+### 03/2008-07/2010
+### Estonian Leasing Association / Webmaster ### Tallinn, Estonia
 
+*The Estonian Leasing Association unites nearly 95% of the companies in the Estonian leasing market. Their website provides guidelines and updated information for the consumer and internal infomation for the members of the Association.*
+
+### 02/2004-08/2013
+### Graphic Designer / Freelance 
+
+* Web and CVI design; * Photo editing.## Education
+###_______________________________________
+### 2007-2010
+###Tallinn University / Advertising and Publicity studies, BA*Topic of Thesis: “Developing a communication strategy for The Estonian Children’s Fund”*
+*Finished within the top 10%.*## Training
+03/2014 - “Media & PR” – by Alberto Canteli (CEO Havas Media Group Nordics, CEE & Middle East)03/2014 - “Copywriting, Television and Radio” - by Alfred Koblinger (CEO BBDO Group Austria)
+06/2012 - Presentation skills – by De Bruine Ashby
+04/2012 - Financial training – by CLS Communication
+03/2012 - Project Management – basics of PMI – by Amontis
+02/2012 - Time management – ECB internal training
+03/2011 - Media buying – by L. Zinetti (Ebiquity France)
+01/2011 - “Working with a creative agency” – by B. Petit (VT Scan)
+2008/2009 - Graphic design and typography courses at the Estonian Art Academy as a part of the student exchange programme within Estonian Universities
+### Estonian
+Mother tongue			### English
+Reading: Fluent
+
+Speaking: Fluent
+Writing: Fluent
+
+### German
+
+Reading: Good
+Speaking: Fair
+Writing: Fair
+### Russian
+Reading: Good
+Speaking: Fair
+
+Writing: Basic### Finnish
+Reading: Good
+Speaking: Basic	
+Writing: Fair	###Computer skills:	
+SAP, Microsoft Office and Project, Photoshop, Illustrator, InDesign, Dreamweaver, SPSS, OpenText Livelink, HTML and CSS programming, Google Apps, Prezi, Basecamp, learning Python :)
+### Driver’s License:	
+Yes
+### References:	
+Provided upon request
