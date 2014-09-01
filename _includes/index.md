@@ -104,6 +104,7 @@ alreinson@gmail.com - sha.lalaaa.com
 
 ### Graphic Designer / Freelance 
 
+
 * Web and CVI design; * Photo editing.## Education
 ### 2007-2010
 ###Tallinn University / Advertising and Publicity studies, BA
