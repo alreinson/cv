@@ -1,5 +1,5 @@
 Tallinn, Estonia -
-alreinson@gmail.com - sha.lalaaa.com	
+alreinson@gmail.com - [sha.lalaaa.com](www.sha.lalaaa.com	)
 
 
 > Hello, thank you for finding your way here. This will eventually be an introduction of some kind. 
