@@ -65,9 +65,7 @@ alreinson@gmail.com - sha.lalaaa.com
 * Tested new software solutions;
 * Assisted in the language adaptation of educational computer games;
 
-### Directorate Communications 
-### Trainee 
-### 1 year
+### Directorate Communications / Trainee / 1 year
 
 [**Euro Campaign Estonia 2011:**](https://www.ecb.europa.eu/euro/changeover/estonia/html/index.en.html)
 
@@ -88,6 +86,5 @@ alreinson@gmail.com - sha.lalaaa.com
 
 * Assisted in the development of project plan and budget, media plan timeline and communications strategy.
 
-u want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
-* You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
+
 
