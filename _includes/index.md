@@ -1,5 +1,5 @@
 Tallinn, Estonia -
-anna-liisa@reinson.ee - [sha.lalaaa.com](http://www.sha.lalaaa.com	)
+anna-liisa@reinson.ee - [sha.lalaaa.com](http://sha.lalaaa.com	)
 
 
 > Hello, thank you for finding your way here. This will eventually be an introduction of some kind. 
