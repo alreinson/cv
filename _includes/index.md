@@ -8,17 +8,9 @@ alreinson@gmail.com - sha.lalaaa.com
 
 ### 9/2013 - present
 
-### Creatum / Project manager / Tallinn, Estonia
+### [Creatum](www.creatum.ee/en) / Project manager / Tallinn, Estonia
 
-### *a full service creative advertising agency*
-
-### Project manager
-
-### Tallinn, Estonia
-
-
-
-*On a daily basis I manage a creative team of 4-7 people and an average of 8 different advertising and communication projects at a time. Within a typical project cycle from beginning to completion I am responsible for:* 
+*Creatum is a full service creative advertising agency. As a project manager I manage a creative team of 4-7 people and an average of 8 different projects at a time. Within a typical project cycle from beginning to completion I am responsible for:* 
 
 
 * Interviewing the client to gain an understanding of their goals and limitations;
@@ -51,19 +43,12 @@ alreinson@gmail.com - sha.lalaaa.com
 
 ### 10/2011-10/2012
 
-### [EUROPEAN CENTRAL BANK](http://www.ecb.europa.eu)
-
-### Frankfurt am Main, Germany
-
+### [EUROPEAN CENTRAL BANK](http://www.ecb.europa.eu) / Frankurt am Main, Germany
 
 *The main emphasis of my work at the ECB was on the Euro banknotes as a product. This included the currency changeover information campaign in Estonia and from then on the launch of the new (second series) Euro banknotes in 2012.*
 
 
-### Directorate General Secretariat and Language Services
- 
-### Senior Administrative Language Assistant
-
-### 1 year
+### Directorate General Secretariat and Language Services / Senior Administrative Language Assistant / 1 year
 
 [**Second series of Euro banknotes Pan-European advertising campaign:**](new-euro-banknotes.eu)
 
