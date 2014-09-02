@@ -1,4 +1,4 @@
-title_tag_text: Anna-Liisa's test test test CV
-h1_tag_text: Anna-Liisa's test test test CV
+title_tag_text: Anna-Liisa&rsquo;s test test test CV
+h1_tag_text: Anna-Liisa&rsquo;s test test test CV
 
 exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
