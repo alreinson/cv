@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Tallinn, Estonia -
 anna-liisa@reinson.ee - [sha.lalaaa.com](http://sha.lalaaa.com	)
 
@@ -88,8 +89,10 @@ Writing: Basic### Finnish
 =======
 
 
+=======
+>>>>>>> FETCH_HEAD
 Tallinn, Estonia -
-alreinson@gmail.com - sha.lalaaa.com	
+anna-liisa@reinson.ee - [sha.lalaaa.com](http://sha.lalaaa.com	)
 
 
 > Hello, thank you for finding your way here. This will eventually be an introduction of some kind. 
@@ -98,9 +101,11 @@ alreinson@gmail.com - sha.lalaaa.com
 
 ### 9/2013 - present
 
-### [Creatum](www.creatum.ee/en) / Project manager / Tallinn, Estonia
+### [Creatum](http://www.creatum.ee/en) / Project manager 
 
-*Creatum is a full service creative advertising agency. As a project manager I manage a creative team of 4-7 people and an average of 8 different projects at a time. Within a typical project cycle from beginning to completion I am responsible for:* 
+### Tallinn, Estonia
+
+Creatum is a full service creative advertising agency. As a project manager I manage a creative team of 4-7 people and an average of 8 different projects at a time. Within a typical project cycle from beginning to completion I am responsible for:
 
 
 * Interviewing the client to gain an understanding of their goals and limitations;
@@ -158,6 +163,7 @@ alreinson@gmail.com - sha.lalaaa.com
 ### 08/2010-08/2011
 
 ### [EUROPEAN CENTRAL BANK](http://www.ecb.europa.eu) / Directorate Communications / Trainee 
+### Frankfurt am Main
 
 *The trainee position was initially created for 6 months to cover the currency changeover information campaign in Estonia, but was extended to full term to include the new series of Euro banknotes campaign preparations.*
 
@@ -175,7 +181,7 @@ alreinson@gmail.com - sha.lalaaa.com
 * Assisted in organising the monthly press conferences and training events for journalists;
 * Supported Press Officers with media monitoring in Estonian, Russian and Finnish.
 
-[**Second series of Euro banknotes Pan-European campaign:**](new-euro-banknotes.eu)
+[**Second series of Euro banknotes Pan-European campaign:**](http://new-euro-banknotes.eu)
 
 
 * Assisted in the development of project plan and budget, media plan timeline and communications strategy.
@@ -184,7 +190,6 @@ alreinson@gmail.com - sha.lalaaa.com
 ### 03/2008-07/2010
 
 ### Estonian Leasing Association / Webmaster 
-
 ### Tallinn, Estonia
 
 *The Estonian Leasing Association unites nearly 95% of the companies in the Estonian leasing market. Their website provides guidelines and updated information for the consumer and internal infomation for the members of the Association.*
@@ -198,84 +203,55 @@ alreinson@gmail.com - sha.lalaaa.com
 * Photo editing.
 
 ## Education
-
 ### 2007-2010
-
 ###Tallinn University / Advertising and Publicity studies, BA
-
 *Topic of Thesis: “Developing a communication strategy for The Estonian Children’s Fund”*
 
 *Finished within the top 10%.*
 
 ## Training
-
 03/2014 - “Media & PR” – by Alberto Canteli (CEO Havas Media Group Nordics, CEE & Middle East)
 
 03/2014 - “Copywriting, Television and Radio” - by Alfred Koblinger (CEO BBDO Group Austria)
-
 06/2012 - Presentation skills – by De Bruine Ashby
-
 04/2012 - Financial training – by CLS Communication
-
 03/2012 - Project Management – basics of PMI – by Amontis
-
 02/2012 - Time management – ECB internal training
-
 03/2011 - Media buying – by L. Zinetti (Ebiquity France)
-
 01/2011 - “Working with a creative agency” – by B. Petit (VT Scan)
-
 2008/2009 - Graphic design and typography courses at the Estonian Art Academy as a part of the student exchange programme within Estonian Universities
 
-
 ### Estonian
-
 Mother tongue			
 
 ### English
-
 Reading: Fluent
 
 Speaking: Fluent
-
 Writing: Fluent
 
 ### German
 
 Reading: Good
-
 Speaking: Fair
-
 Writing: Fair
-
 ### Russian
-
 Reading: Good
-
 Speaking: Fair
 
 Writing: Basic
 
 ### Finnish
-
 Reading: Good
-
 Speaking: Basic	
-
 Writing: Fair	
 
 
 ###Computer skills:	
-
 SAP, Microsoft Office and Project, Photoshop, Illustrator, InDesign, Dreamweaver, SPSS, OpenText Livelink, HTML and CSS programming, Google Apps, Prezi, Basecamp, learning Python :)
-
 ### Driver’s License:	
-
 Yes
 
 ### References:	
-
 Provided upon request
 
-
->>>>>>> FETCH_HEAD
