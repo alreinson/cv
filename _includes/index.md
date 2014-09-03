@@ -4,7 +4,7 @@ anna-liisa@reinson.ee - [sha.lalaaa.com](http://sha.lalaaa.com	)
 
 > Hello, thank you for finding your way here. This will eventually be an introduction of some kind. 
 
-## Experience
+# Experience
 
 ### 9/2013 - present
 
@@ -41,8 +41,7 @@ The Estonian Leasing Association unites nearly 95% of the companies in the Eston
 
 ### Graphic Designer / Freelance / Tallinn, Estonia
 
-As a freelancer, my work of choice was mostly logo and CVI creation, but I also worked quite a bit on website design and digital banners.<br>
-<br>## Education
+As a freelancer, my work of choice was mostly logo and CVI creation, but I also worked quite a bit on website design and digital banners.# Education
 ### 2007-2010
 ###Tallinn University / Advertising and Publicity studies, BA
 Topic of Thesis: “Developing a communication strategy for The Estonian Children’s Fund”*Finished within the top 10%.*## Training
