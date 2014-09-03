@@ -43,7 +43,7 @@ The Estonian Leasing Association unites nearly 95% of the companies in the Eston
 
 As a freelancer, my work of choice was mostly logo and CVI creation, but I also worked quite a bit on website design and digital banners.
 
-## Education
+## Education lalalaaaaaaaa
 
 ### 2007-2010
 
