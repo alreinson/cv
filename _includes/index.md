@@ -33,7 +33,7 @@ My initial 6 month appointment as a trainee concentrated on the currency changeo
 
 ### 03/2008-07/2010
 
-### Estonian Leasing Association /Webmaster / Tallinn, Estonia
+### [Estonian Leasing Association](http://liisingliit.ee/index.php?lang=eng) / Webmaster / Tallinn, Estonia
 
 The Estonian Leasing Association unites nearly 95% of the companies in the Estonian leasing market. Their website provides guidelines and updated information for the consumer and internal infomation for the members of the Association.
 
@@ -41,7 +41,8 @@ The Estonian Leasing Association unites nearly 95% of the companies in the Eston
 
 ### Graphic Designer / Freelance / Tallinn, Estonia
 
-As a freelancer, my work of choice was mostly logo and CVI creation, but I also worked quite a bit on website design and digital banners.## Education
+As a freelancer, my work of choice was mostly logo and CVI creation, but I also worked quite a bit on website design and digital banners.<br>
+<br>## Education
 ### 2007-2010
 ###Tallinn University / Advertising and Publicity studies, BA
 Topic of Thesis: “Developing a communication strategy for The Estonian Children’s Fund”*Finished within the top 10%.*## Training
