@@ -41,7 +41,7 @@ The Estonian Leasing Association unites nearly 95% of the companies in the Eston
 
 ### Graphic Designer / Freelance / Tallinn, Estonia
 
-As a freelancer, my work of choice was mostly logo and CVI creation, but I also worked quite a bit on website design and digital banners.## Education
+As a freelancer, my work of choice was mostly logo and CVI creation, but I also worked quite a bit on website design and digital banners.## Educationn
 ### 2007-2010
 ###Tallinn University / Advertising and Publicity studies, BA
 Topic of Thesis: “Developing a communication strategy for The Estonian Children’s Fund”*Finished within the top 10%.*## Training
