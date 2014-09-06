@@ -74,38 +74,6 @@ Topic of Thesis: “Developing a communication strategy for The Estonian Childre
 2008/2009 - Graphic design and typography courses at the Estonian Art Academy as a part of the student exchange programme within Estonian Universities
 
 
-<table border="0" cellspacing="0" cellpadding="0" width="502">
-
- <td width="100" valign="top"><p><br>
-  <td width="100" valign="top"><p>Reading<br>
-  <td width="100" valign="top"><p>Speaking<br>
-  <td width="100" valign="top"><p>Writing<br>
- 
-  <tr>
-    
-    <td width="100" valign="top"><p>Estonian<br>
-      English<br>
-      Russian<br>
-      German<br>
-      Finnish </p></td>
-    <td width="100" valign="top"><p>Native language<br>
-      Fluent<br>
-      Good<br>
-      Good<br>
-      Good </p></td>
-    <td width="100" valign="top"><p>Mother tongue<br>
-      Fluent<br>
-      Fair<br>
-      Fair<br>
-      Basic </p></td>
-    <td width="100" colspan="2" valign="top"><p>Mother tongue<br>
-      Fluent<br>
-      Basic<br>
-      Fair<br>
-      Basic </p></td>
-  </tr>
-</table>
-
 ### Estonian
 
 Mother tongue			
