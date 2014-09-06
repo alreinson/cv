@@ -6,7 +6,7 @@ anna-liisa@reinson.ee - [sha.lalaaa.com](http://sha.lalaaa.com	)
 
 ## Experience
 
-### 9/2013 - present
+### 9/2013 — present
 
 ### [Creatum](http://www.creatum.ee/en) / Project manager / Tallinn, Estonia
 
@@ -16,7 +16,7 @@ My added value within the team lies in my comprehension of the technical aspects
 
 
 
-### 10/2011-10/2012
+### 10/2011 – 10/2012
 
 ### [EUROPEAN CENTRAL BANK](http://www.ecb.europa.eu) / Directorate General Secretariat and Language Services / Senior Administrative Language Assistant / Frankurt am Main, Germany
 
@@ -24,20 +24,20 @@ The main emphasis of my work at the Language Services division was on the prepar
 
 
 
-### 08/2010-08/2011
+### 08/2010 – 08/2011
 
 ### [EUROPEAN CENTRAL BANK](http://www.ecb.europa.eu) / Directorate Communications / Trainee / Frankfurt am Main
 
 My initial 6 month appointment as a trainee concentrated on the currency changeover information campaign in Estonia. As a native speaker of the language I helped with the creation of the campaign materials as well as on-location event organisation. After my traineeship was extended to the full term, my work continued on the campaign preparations for the launch of the new series of Euro banknotes.
 
 
-### 03/2008-07/2010
+### 03/2008 – 07/2010
 
 ### [Estonian Leasing Association](http://liisingliit.ee/index.php?lang=eng) / Webmaster / Tallinn, Estonia
 
 The Estonian Leasing Association unites nearly 95% of the companies in the Estonian leasing market. Their website provides guidelines and updated information for the consumer and internal infomation for the members of the Association.
 
-### 02/2004-08/2013
+### 02/2004 – 08/2013
 
 ### Graphic Designer / Freelance / Tallinn, Estonia
 
@@ -45,7 +45,7 @@ As a freelancer, my work of choice was mostly logo and CVI creation, but I also 
 
 ## Education lalalaaaaaaaa
 
-### 2007-2010
+### 2007 – 2010
 
 ###Tallinn University / Advertising and Publicity studies, BA
 
@@ -71,44 +71,11 @@ Topic of Thesis: “Developing a communication strategy for The Estonian Childre
 
 01/2011 - “Working with a creative agency” – by B. Petit (VT Scan)
 
-2008/2009 - Graphic design and typography courses at the Estonian Art Academy as a part of the student exchange programme within Estonian Universities
+2008-2009 - Graphic design and typography courses at the Estonian Art Academy as a part of the student exchange programme within Estonian Universities
 
 
-### Estonian
-
-Mother tongue			
-
-### English
-
-Reading: Fluent
-
-Speaking: Fluent
-
-Writing: Fluent
-
-### German
-
-Reading: Good
-
-Speaking: Fair
-
-Writing: Fair
-
-### Russian
-
-Reading: Good
-
-Speaking: Fair
-
-Writing: Basic
-
-### Finnish
-
-Reading: Good
-
-Speaking: Basic	
-
-Writing: Fair	
+### Languages
+I speak fluent English and Estonian. I underand German, Russian and Finnish, however the speaking part still needs a bit of work.
 
 
 ###Computer skills:	
