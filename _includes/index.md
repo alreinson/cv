@@ -71,7 +71,7 @@ Topic of Thesis: “Developing a communication strategy for The Estonian Childre
 
 01/2011 - “Working with a creative agency” – by B. Petit (VT Scan)
 
-2008-2009 - Graphic design and typography courses at the Estonian Art Academy as a part of the student exchange programme within Estonian Universities
+2008 – 2009 - Graphic design and typography courses at the Estonian Art Academy as a part of the student exchange programme within Estonian Universities
 
 
 ### Languages
@@ -80,7 +80,7 @@ I speak fluent English and Estonian. I underand German, Russian and Finnish, how
 
 ###Computer skills:	
 
-SAP, Microsoft Office and Project, Photoshop, Illustrator, InDesign, Dreamweaver, SPSS, OpenText Livelink, HTML and CSS programming, Google Apps, Prezi, Basecamp, learning Python :)
+SAP, MS Office, MS Project, Photoshop, Illustrator, InDesign, Dreamweaver, SPSS, OpenText Livelink, HTML and CSS programming, Prezi, learning Python :)
 
 ### Driver’s License:	
 
