@@ -74,19 +74,19 @@ Topic of Thesis: “Developing a communication strategy for The Estonian Childre
 2008 – 2009 - Graphic design and typography courses at the Estonian Art Academy as a part of the student exchange programme within Estonian Universities
 
 
-### Languages
+## Languages
 I speak fluent English and Estonian. I underand German, Russian and Finnish, however the speaking part still needs a bit of work.
 
 
-###Computer skills:	
+## Computer skills:	
 
 SAP, MS Office, MS Project, Photoshop, Illustrator, InDesign, Dreamweaver, SPSS, OpenText Livelink, HTML and CSS programming, Prezi, learning Python :)
 
-### Driver’s License:	
+## Driver’s License:	
 
 Yes
 
-### References:	
+## References:	
 
 Provided upon request
 
