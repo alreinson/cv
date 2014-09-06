@@ -69,7 +69,7 @@ Topic of Thesis: “Developing a communication strategy for The Estonian Childre
 
 03/2011 - Media buying – by L. Zinetti (Ebiquity France)
 
-01/2011 - “Working with a creative agency” – by B. Petit (VT Scan)
+01/2011 - Working with a creative agency – by B. Petit (VT Scan)
 
 2008 – 2009 - Graphic design and typography courses at the Estonian Art Academy as a part of the student exchange programme within Estonian Universities
 
