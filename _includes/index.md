@@ -12,7 +12,7 @@ anna-liisa@reinson.ee - [sha.lalaaa.com](http://sha.lalaaa.com	)
 
 Creatum is a full service advertising agency. As a project manager I work with a creative team of 4-7 people and an average of 6 different projects at a time. During a typical project I am responsible for the full the full cycle ranging from planning to execution and Ex-Post analysis. This includes briefing the creative team, pitching ideas, budget planning as well as campaign monitoring and management.
 
-My added value within the team lies in my comprehension of the technical aspects of digital advertising and web development. Due to a keen interest in the topic, my goal is to expand the agency's digital portfolio. 
+My added value within the team lies in my comprehension of the technical aspects of digital advertising and web development as well as social media strategies. Due to a keen interest in the topic, my goal is to expand the agency's digital portfolio. 
 
 
 
