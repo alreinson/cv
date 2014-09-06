@@ -61,7 +61,7 @@ Topic of Thesis: “Developing a communication strategy for The Estonian Childre
 
 06/2012 - Presentation skills – by De Bruine Ashby
 
-04/2012 - Financial training – by CLS Communication
+04/2012 - English terminology in finance – by CLS Communication
 
 03/2012 - Project Management – basics of PMI – by Amontis
 
