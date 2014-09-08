@@ -79,7 +79,7 @@ Topic of Thesis: “Developing a communication strategy for The Estonian Childre
 
 
 ## Languages
-I speak fluent English and Estonian. I underand German, Russian and Finnish, however the speaking part still needs a bit of work.
+I speak fluent English and Estonian. I can understand and converse in German, Russian and Finnish, however I feel they still need a bit of work.
 
 
 ## Computer skills:	
