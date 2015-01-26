@@ -2,7 +2,7 @@ Tallinn, Estonia -
 [anna-liisa@reinson.ee](mailto:anna-liisa@reinson.ee)
 
 
-> Hello and thank you for finding your way here. I am a computer geek at heart and a project manager by passion. My career path so far has been an adventure in the world of advertising (both on the client side and the agency). 
+> Hello and thank you for finding your way here. I am a computer geek at heart and a project manager by passion. My career path so far has been an adventure in the world of advertising, which recently took a turn towards IT. 
 >
 > I am good with people and organising things, always punctual and positively minded. In stressful situations I am always calm and goal oriented.
 >
@@ -10,7 +10,14 @@ Tallinn, Estonia -
 
 ## Experience
 
-### 9/2013 — present
+### 01/2015 - present
+
+### [Eesti Telekom](https://www.telekom.ee/en/), TeliaSonera Group / Development Manager / Tallinn, Estonia
+
+Currently geeking around with portals and apps.
+
+
+### 9/2013 — 12/2014
 
 ### [Creatum](http://www.creatum.ee/en) / Project manager / Tallinn, Estonia
 
