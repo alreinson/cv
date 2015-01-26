@@ -2,9 +2,7 @@ Anna-Liisa Reinson - Tallinn, Estonia -
 [anna-liisa@reinson.ee](mailto:anna-liisa@reinson.ee)
 
 
-> Hello and thank you for finding your way here. I am a computer geek at heart and a project manager by passion. My career path so far has been an adventure in the world of advertising, which recently took an exciting new turn towards IT. 
->
-> So feel free to have a look around and should you have any questions, don't hesitate to ask.
+> Hello and thank you for finding your way here. I am a computer geek at heart and a project manager by passion. My career path so far has been an adventure in the world of advertising, which recently took an exciting new turn towards IT. So feel free to have a look around and should you have any questions, don't hesitate to ask.
 
 ## Experience
 
