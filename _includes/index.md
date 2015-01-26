@@ -1,11 +1,18 @@
-Tallinn, Estonia -
+Anna-Liisa Reinson - Tallinn, Estonia -
 [anna-liisa@reinson.ee](mailto:anna-liisa@reinson.ee)
 
 
+<<<<<<< HEAD
 > Hello and thank you for finding your way here. I am a computer geek at heart and a project manager by passion. My career path so far has been an adventure in the world of advertising, which recently took a turn towards IT. 
 >
 > I am good with people and organising things, always punctual and positively minded. In stressful situations I am always calm and goal oriented.
 >
+=======
+> Hello and thank you for finding your way here. I am a computer geek at heart and a project manager by passion. My career path so far has been an adventure in the world of advertising (both on the client side and the agency). 
+>
+> I am good with people and organising things, always punctual and positively minded. In stressful situations I am always calm and goal oriented.
+>
+>>>>>>> FETCH_HEAD
 > So feel free to have a look around and should you have any questions, don't hesitate to ask.
 
 ## Experience
@@ -21,7 +28,7 @@ Currently geeking around with portals and apps.
 
 ### [Creatum](http://www.creatum.ee/en) / Project manager / Tallinn, Estonia
 
-Creatum is a full service advertising agency. As a project manager I work with a creative team of 4-7 people and an average of 6 different projects at a time. During a typical project I am responsible for the full the full cycle ranging from planning to execution and Ex-Post analysis. This includes briefing the creative team, pitching ideas, budget planning as well as campaign monitoring and communication with the clients.
+Creatum is a full service advertising agency. As a project manager I work with a creative team of 4-7 people and an average of 6 different projects at a time. During a typical project I am responsible for the full project cycle ranging from planning to execution and Ex-Post analysis. This includes briefing the creative team, pitching ideas, budget planning as well as campaign monitoring and communication with the clients.
 
 My added value within the team lies in my comprehension of the technical aspects of digital advertising and web development as well as social media strategies. Due to a keen interest in the topic, my goal is to expand the agency's digital portfolio. 
 
@@ -86,7 +93,7 @@ Topic of Thesis: “Developing a communication strategy for The Estonian Childre
 
 
 ## Languages
-I speak fluent English and Estonian. I underand German, Russian and Finnish, however the speaking part still needs a bit of work.
+I speak fluent English and Estonian. I can understand and converse in German, Russian and Finnish, however I feel they still need a bit of work.
 
 
 ## Computer skills:	
