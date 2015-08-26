@@ -8,7 +8,7 @@ Anna-Liisa Reinson - Tallinn, Estonia -
 
 ### 01/2015 - present
 
-### [Eesti Telekom](https://www.telekom.ee/en/), TeliaSonera Group / Development Manager / Tallinn, Estonia
+### [Eesti Telekom](https://www.telekom.ee/), TeliaSonera Group / Development Manager / Tallinn, Estonia
 
 Making cool Telecomms stuff :)
 
