@@ -2,7 +2,7 @@ Anna-Liisa Reinson - Tallinn, Estonia -
 [anna-liisa@reinson.ee](mailto:anna-liisa@reinson.ee)
 
 
-> Hello and thank you for finding your way here. I am a computer geek at heart and a project manager by passion. My career path so far has been an adventure in the world of advertising, which recently took an exciting new turn towards IT. So feel free to have a look around and should you have any questions, don't hesitate to ask.
+> Hello and thank you for finding your way here. I am a user advocate at heart and a computer geek by profession. My career path so far has been an adventure into the world of advertising, which it recently took an exciting new turn towards IT. Feel free to have a look around and should you have any questions, don't hesitate to ask.
 
 ## Experience
 
@@ -10,16 +10,16 @@ Anna-Liisa Reinson - Tallinn, Estonia -
 
 ### [Eesti Telekom](https://www.telekom.ee/en/), TeliaSonera Group / Development Manager / Tallinn, Estonia
 
-Currently geeking around and making cool Telecomms stuff :)
+Making cool Telecomms stuff :)
 
 
 ### 9/2013 — 12/2014
 
 ### [Creatum](http://www.creatum.ee/en) / Project manager / Tallinn, Estonia
 
-Creatum is a full service advertising agency. As a project manager I work with a creative team of 4-7 people and an average of 6 different projects at a time. During a typical project I am responsible for the full project cycle ranging from planning to execution and Ex-Post analysis. This includes briefing the creative team, pitching ideas, budget planning as well as campaign monitoring and communication with the clients.
+Creatum is a full service advertising agency. As a project manager I worked with a creative team of 4-7 people and an average of 6 different projects at a time. During a typical project I was responsible for the full project cycle ranging from planning to execution and Ex-Post analysis. This included briefing the creative team, pitching ideas, budget planning as well as campaign monitoring and communication with the clients.
 
-My added value within the team lies in my comprehension of the technical aspects of digital advertising and web development as well as social media strategies. Due to a keen interest in the topic, my goal is to expand the agency's digital portfolio. 
+My added value within the team lied in my comprehension of the technical aspects of digital advertising and web development as well as social media strategies. Due to a keen interest in the topic, my focus was on expanding the agency's digital portfolio.
 
 
 
