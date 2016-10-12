@@ -2,7 +2,7 @@ Anna-Liisa Reinson - Tallinn, Estonia -
 [anna-liisa@reinson.ee](mailto:anna-liisa@reinson.ee)
 
 
-> Hello and thank you for finding your way here. I am a computer geek at heart and now also by profession. My career path so far has been an adventure into the world of advertising, which recently took an exciting new turn towards dreaming up and building delightful User Experiences in the Telco world. Feel free to have a look around and should you have any questions, don't hesitate to ask.
+> Hello and thank you for finding your way here. I am a computer geek at heart and now also by profession. My career path so far has been an adventure into the world of advertising, which recently took an exciting new turn towards creating delightful User Experiences in the Telco world. Feel free to have a look around and should you have any questions, don't hesitate to ask.
 
 ## Experience
 
