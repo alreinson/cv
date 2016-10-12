@@ -94,7 +94,7 @@ I speak fluent English and Estonian. I can understand and converse in German, Ru
 
 ## Computer skills:	
 
-SAP, Atlassia's Jira and Confluence, MS Office, MS Project, Adobe CS, SPSS, OpenText Livelink, HTML and CSS programming, learning Python :)
+SAP, Atlassian's Jira and Confluence, MS Office, MS Project, Adobe CS, SPSS, OpenText Livelink, HTML and CSS programming, learning Python :)
 
 ## Driver’s License:	
 
