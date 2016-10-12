@@ -67,6 +67,8 @@ Topic of Thesis: “Developing a communication strategy for The Estonian Childre
 
 ## Training
 
+06/2015 - “Basics of Scrum” - by Telia internal training
+
 03/2014 - “Media & PR” – by Alberto Canteli (CEO Havas Media Group Nordics, CEE & Middle East)
 
 03/2014 - “Copywriting, Television and Radio” - by Alfred Koblinger (CEO BBDO Group Austria)
