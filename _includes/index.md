@@ -12,7 +12,7 @@ Anna-Liisa Reinson - Tallinn, Estonia -
 
 Making cool Mobile apps and sales processes :)
 
-As a Product Owner/Development Manager I cover 2 main areas: Telia Mobile Applications (iOS, Android and Windows) and Telia TV online sales processes (Web + Mobile Apps + TV screen). I am responsible for the full product life cycle: starting from Conceptualisation and the User Experience design, the development process and from then on the day-to-day maintenance. 
+As a Product Owner/Development Manager I cover 2 main areas: Telia's Mobile Applications (iOS, Android and Windows) and Telia TV online sales processes (Web + Mobile Apps + TV screen). I am responsible for the full product life cycle: starting from Conceptualisation and the User Experience design, the development process and from then on the day-to-day maintenance. 
 
 
 ### 9/2013 — 12/2014
