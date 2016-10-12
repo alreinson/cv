@@ -8,18 +8,22 @@ Anna-Liisa Reinson - Tallinn, Estonia -
 
 ### 01/2015 - present
 
-### [Eesti Telekom](https://www.telekom.ee/), TeliaSonera Group / Development Manager / Tallinn, Estonia
+### [Telia Eesti](https://www.telia.ee/), Telia Company / Development Manager & Product Owner / Tallinn, Estonia
 
-Making cool Telecomms stuff :)
+Making cool Mobile apps and sales processes :)
+
+As a Product Owner/Development Manager I cover 2 main areas: Telia Mobile Applications (iOS, Android and Windows) and Telia TV online sales processes (Web + Mobile Apps + TV screen). I am responsible for the full product life cycle: starting from Conceptualisation and the User Experience design, the development process and from then on the day-to-day maintenance. 
 
 
 ### 9/2013 — 12/2014
 
 ### [Creatum](http://www.creatum.ee/en) / Project manager / Tallinn, Estonia
 
-Creatum is a full service advertising agency. As a project manager I worked with a creative team of 4-7 people and an average of 6 different projects at a time. During a typical project I was responsible for the full project cycle ranging from planning to execution and Ex-Post analysis. This included briefing the creative team, pitching ideas, budget planning as well as campaign monitoring and communication with the clients.
+As a project manager I worked with a creative team of 4-7 people and an average of 6 different projects at a time. I was responsible for the full project cycle ranging from planning to execution, monitoring and Ex-Post analysis. 
 
-My added value within the team lied in my comprehension of the technical aspects of digital advertising and web development as well as social media strategies. Due to a keen interest in the topic, my focus was on expanding the agency's digital portfolio.
+My added value within the team lied in my comprehension of the technical aspects of digital advertising and web development as well as social media strategies. Due to a wholehearted interest in the topic, my focus was on expanding the agency’s digital portfolio.
+
+Creatum is a full service advertising agency. 
 
 
 
@@ -27,7 +31,9 @@ My added value within the team lied in my comprehension of the technical aspects
 
 ### [EUROPEAN CENTRAL BANK](http://www.ecb.europa.eu) / Directorate General Secretariat and Language Services / Senior Administrative Language Assistant / Frankurt am Main, Germany
 
-The main emphasis of my work at the Language Services division was on the preparation stage for the launch of the new (second series) Euro banknotes in 2012. My general tasks also included managing all Estonian, Hungarian, German and Danish language projects as well as projects including all 21 EU languages. The deliverables included website content and printed materials. My role was to coordinate the work on communications and language related projects between all key stakeholders, the translators and the creative agency.
+The main emphasis of my work at the Language Services division was on the preparation of information materials for the launch of the new (second series) Euro banknotes starting from 2012. 
+
+My general tasks also included managing all Estonian, Hungarian, German and Danish language projects as well as projects including all 21 EU languages. My role was to coordinate the work on language related projects between all key stakeholders, the translators and the creative agency.
 
 
 
@@ -35,18 +41,17 @@ The main emphasis of my work at the Language Services division was on the prepar
 
 ### [EUROPEAN CENTRAL BANK](http://www.ecb.europa.eu) / Directorate Communications / Trainee / Frankfurt am Main
 
-My initial 6 month appointment as a trainee concentrated on the currency changeover information campaign in Estonia. As a native speaker of the language I helped with the creation of the campaign materials as well as on-location event planning and organisation. After my traineeship was extended to the full term, my work continued on the preparations for the launch of the new series of Euro banknotes.
+My traineeship concentrated on helping implement the currency changeover advertising and information campaign in Estonia. 
+
+As a native speaker of the language I helped with the creation of the campaign materials as well as on-location event planning and organisation. After my traineeship was extended to the full term, my work continued on the preparations for the launch of the new series of Euro banknotes.
+
+The European Central Bank (ECB) is responsible for defining and implementing monetary policy for the euro area.
 
 
-### 03/2008 – 07/2010
-
-### [Estonian Leasing Association](http://liisingliit.ee/index.php?lang=eng) / Webmaster / Tallinn, Estonia
-
-The Estonian Leasing Association unites nearly 95% of the companies in the Estonian leasing market. My job included the general maintenance and development of the website as well as occasional user training.
 
 ### 02/2004 – 08/2013
 
-### Graphic Designer / Freelance / Tallinn, Estonia
+### Graphic Designer & Web Developer / Freelance / Tallinn, Estonia
 
 As a freelancer, my work of choice was mostly logo and CVI creation, but I also did website and digital banner design.
 
@@ -87,7 +92,7 @@ I speak fluent English and Estonian. I can understand and converse in German, Ru
 
 ## Computer skills:	
 
-SAP, MS Office, MS Project, Photoshop, Illustrator, InDesign, Dreamweaver, SPSS, OpenText Livelink, HTML and CSS programming, Prezi, learning Python :)
+SAP, Atlassia's Jira and Confluence, MS Office, MS Project, Adobe CS, SPSS, OpenText Livelink, HTML and CSS programming, learning Python :)
 
 ## Driver’s License:	
 
