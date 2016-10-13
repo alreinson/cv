@@ -174,20 +174,20 @@ pre > code {
 
 /* unvisited link */
 a:link {
-    color: #005ce6;
+    color: #FF5724;
 }
 
 /* visited link */
 a:visited {
-    color: #005ce6;
+    color: #FF5724;
 }
 
 /* mouse over link */
 a:hover {
-    color: #005ce6;
+    color: #FF5724;
 }
 
 /* selected link */
 a:active {
-    color: #005ce6;
+    color: #FF5724;
 }
