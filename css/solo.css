@@ -17,7 +17,7 @@ body {
 }
 
 a {
-  color: #005ce6; /* From http://clrs.cc */
+  color: #0074d9; /* From http://clrs.cc */
   text-decoration: none;
 }
 
@@ -174,20 +174,20 @@ pre > code {
 
 /* unvisited link */
 a:link {
-    color: #FF5724;
+    color: #005ce6;
 }
 
 /* visited link */
 a:visited {
-    color: #FF5724;
+    color: #005ce6;
 }
 
 /* mouse over link */
 a:hover {
-    color: #FF5724;
+    color: #005ce6;
 }
 
 /* selected link */
 a:active {
-    color: #FF5724;
+    color: #005ce6;
 }
