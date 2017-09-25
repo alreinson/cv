@@ -38,7 +38,7 @@ h1 {
   font-size: 2rem;
   margin-bottom: 1rem;
   line-height: 1;
-  color: #FF5724;
+  color: #ff9a74;
 }
 
 @media (min-width: 30rem) {
@@ -150,7 +150,7 @@ pre > code {
 
   -webkit-box-shadow: rgba(0, 0, 0, 0.14) 0 32px 48px;
   box-shadow: rgba(0, 0, 0, 0.14) 0 32px 48px;
-  background-color: #fff;
+  background-color: #c1ebe6;
 }
 
 @media (min-width: 45rem) {
@@ -174,20 +174,20 @@ pre > code {
 
 /* unvisited link */
 a:link {
-    color: #FF5724;
+    color: #ff9a74;
 }
 
 /* visited link */
 a:visited {
-    color: #FF5724;
+    color: #ffb093;
 }
 
 /* mouse over link */
 a:hover {
-    color: #FF5724;
+    color: #ffb093;
 }
 
 /* selected link */
 a:active {
-    color: #FF5724;
+    color: #ff9a74;
 }
