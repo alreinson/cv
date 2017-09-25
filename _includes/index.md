@@ -69,15 +69,13 @@ Topic of Thesis: “Developing a communication strategy for The Estonian Childre
 
 ## Training
 
+03/2017 - "Certified Scrum Product Owner" training - by Petri Heiramo (Scrum Alliance/Agilecraft Ltd)
+
 06/2015 - “Basics of Scrum” - by Telia internal training
 
 03/2014 - “Media & PR” – by Alberto Canteli (CEO Havas Media Group Nordics, CEE & Middle East)
 
-03/2014 - “Copywriting, Television and Radio” - by Alfred Koblinger (CEO BBDO Group Austria)
-
 06/2012 - Presentation skills – by De Bruine Ashby
-
-04/2012 - Financial language – by CLS Communication
 
 03/2012 - Project Management – basics of PMI – by Amontis
 
@@ -96,7 +94,7 @@ I speak fluent English and Estonian. I can understand and converse in German, Ru
 
 ## Computer skills:	
 
-SAP, Atlassian's Jira and Confluence, MS Office, MS Project, Adobe CS, SPSS, OpenText Livelink, HTML and CSS programming, learning Python :)
+Atlassian's Jira and Confluence, MS Office, Adobe CS, SPSS, OpenText Livelink, HTML and CSS programming, learning Python :)
 
 ## Driver’s License:	
 
