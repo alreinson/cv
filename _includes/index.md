@@ -2,7 +2,7 @@ Anna-Liisa Reinson - Tallinn, Estonia -
 [anna-liisa@reinson.ee](mailto:anna-liisa@reinson.ee)
 
 
-> Hello and thank you for finding your way here. I am a computer geek at heart and now also by profession. My career path so far has been an adventure into the world of advertising, which recently took an exciting new turn towards creating delightful User Experiences in the Telco world. Feel free to have a look around and should you have any questions, don't hesitate to ask.
+> Hello and thank you for finding your way here. I am a computer geek at heart and now also by profession. My career path so far has been an adventure into the world of marketing and advertising, which recently took a deep dive into technology. I am currently responsible for creating delightful User Experiences through developing Digital Sales Channels. Feel free to have a look around and should you have any questions, don't hesitate to ask.
 
 ## Experience
 
@@ -10,9 +10,11 @@ Anna-Liisa Reinson - Tallinn, Estonia -
 
 ### [Telia Eesti](https://www.telia.ee/), Telia Company / Development Manager & Product Owner / Tallinn, Estonia
 
-Making cool Mobile apps and sales processes :)
+Making Mobile apps and Digital Sales Environments :)
 
-As a Product Owner/Development Manager I cover 2 main areas: Telia's Mobile Applications (iOS, Android and Windows) and Telia TV online sales processes (Web + Mobile Apps + TV screen). I am responsible for the full product life cycle: starting from Conceptualisation and the User Experience design, the development process and from then on the day-to-day maintenance. 
+As a Product Owner for Telia's Digital Sales Channels I take care of our Self-Service environments and Mobile Applications. I am responsible for defining product strategy as well as roadmap planning and execution throughout the product lifecycle. My work includes gathering and prioritizing product and customer requirements, and working closely with with my team of developers as well as sales, marketing and customer support to ensure that revenue goals are met and our customers are happy. 
+
+Telia Eesti is the market leading telco in Estonia which is a part of the Telia Company Group. 
 
 
 ### 9/2013 — 12/2014
