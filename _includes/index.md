@@ -96,9 +96,11 @@ I speak fluent English and Estonian. I can understand and converse in German, Ru
 
 Atlassian's Jira and Confluence, MS Office, Adobe CS, SPSS, OpenText Livelink, HTML and CSS programming, learning Python :)
 
+
 ## Driver’s License:	
 
 Yes
+
 
 ## Besides work
 I like to take photos - especially macros of all sorts of tiny critters  ([sha.lalaaa.com](http://sha.lalaaa.com	)). I love the Alps and I try and take my snowboard there as often as I can. From time to time I teach horseback riding classes.
