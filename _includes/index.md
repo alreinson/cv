@@ -61,7 +61,7 @@ As a freelancer, my work of choice was mostly logo and CVI creation, but I also 
 
 ### 2007 – 2010
 
-###Tallinn University / Advertising and Publicity studies, BA
+### Tallinn University / Advertising and Publicity studies, BA
 
 Topic of Thesis: “Developing a communication strategy for The Estonian Children’s Fund”
 
