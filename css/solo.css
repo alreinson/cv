@@ -155,7 +155,7 @@ pre > code {
 
 @media (min-width: 45rem) {
   html {
-    background-color: #c1ebe6;
+    background-color: #a6e5de;
   }
 }
 
@@ -174,21 +174,21 @@ pre > code {
 
 /* unvisited link */
 a:link {
-    color: #ff9a74;
+    color: #ff6833;
 }
 
 /* visited link */
 a:visited {
-    color: #ff9a74;
+    color: #ff6833;
 }
 
 /* mouse over link */
 a:hover {
-    color: #ffb093;
+    color: #ff7f51;
 }
 
 /* selected link */
 a:active {
-    color: #ff9a74;
+    color: #ff6833;
 }
 
