@@ -3,7 +3,7 @@
 
 html {
   font: 16px/1.5 Lato, sans-serif;
-  background-color: #fff;
+  background-color: #c1ebe6;
 }
 
 @media (min-width: 30rem) {
@@ -150,7 +150,7 @@ pre > code {
 
   -webkit-box-shadow: rgba(0, 0, 0, 0.14) 0 32px 48px;
   box-shadow: rgba(0, 0, 0, 0.14) 0 32px 48px;
-  background-color: #c1ebe6;
+  background-color: #fff;
 }
 
 @media (min-width: 45rem) {
