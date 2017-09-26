@@ -12,7 +12,7 @@ Anna-Liisa Reinson - Tallinn, Estonia -
 
 Making Mobile apps and Digital Sales Environments :)
 
-As a Product Owner for Telia's Digital Sales Channels I take care of our Self-Service environments and Mobile Applications. I am responsible for defining product strategy as well as roadmap planning and execution throughout the product lifecycle. My work includes gathering and prioritizing product and customer requirements, and working closely with with my team of developers as well as sales, marketing and customer support to ensure that revenue goals are met and our customers are happy. 
+As a Product Owner for Telia's Digital Sales Channels I take care of our Self-Service environments and Mobile Applications. I am responsible for defining product strategy as well as roadmap planning and execution throughout the product lifecycle. My work includes gathering and prioritizing product and customer requirements and working closely with with my team of developers as well as sales, marketing and customer support to ensure that revenue goals are met and our customers are happy. 
 
 Telia Eesti is the market leading telco in Estonia which is a part of the Telia Company Group. 
 
