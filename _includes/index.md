@@ -14,6 +14,8 @@ Making Mobile apps and Digital Sales Environments :)
 
 As a Product Owner for Telia's Digital Sales Channels I take care of our Self-Service environments and Mobile Applications. I am responsible for defining product strategy as well as roadmap planning and execution throughout the product lifecycle. My work includes gathering and prioritizing product and customer requirements and working closely with with my team of developers as well as sales, marketing and customer support to ensure that revenue goals are met and our customers are happy. 
 
+My biggest achievements in Telia include building a Self-Service/E-commerce mobile app Minu Telia, which has now cemented its position in Telia's digital roadmap due to a very warm welcome by the users. Another recent project close to my heart was completely rebuilding the Web Self-Service and iOS/Android  mobile apps for the coolest mobile prepaid card called Super. And last but not least I am very proud of having changed Telia's development process practices to focus a lot more on customer and UX research.
+
 Telia Eesti is the market leading telco in Estonia which is a part of the Telia Company Group. 
 
 
