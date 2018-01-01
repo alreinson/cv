@@ -67,25 +67,21 @@ As a freelancer, my work of choice was mostly logo and CVI creation, but I also 
 
 Topic of Thesis: “Developing a communication strategy for The Estonian Children’s Fund”
 
-*Finished within the top 10%.*
+
 
 ## Training
 
+05/2017 - Leadership skills for future people managers - by Telia internal training
+
 03/2017 - "Certified Scrum Product Owner" training - by Petri Heiramo (Scrum Alliance/Agilecraft Ltd)
 
-06/2015 - “Basics of Scrum” - by Telia internal training
+06/2015 - Basics of Scrum - by Telia internal training
 
-03/2014 - “Media & PR” – by Alberto Canteli (CEO Havas Media Group Nordics, CEE & Middle East)
-
-06/2012 - Presentation skills – by De Bruine Ashby
+06/2012 - Presentation skills and public speaking – by De Bruine Ashby
 
 03/2012 - Project Management – basics of PMI – by Amontis
 
 02/2012 - Time management – ECB internal training
-
-03/2011 - Media buying – by L. Zinetti (Ebiquity France)
-
-01/2011 - Working with a creative agency – by B. Petit (VT Scan)
 
 2008 – 2009 - Graphic design and typography courses at the Estonian Art Academy as a part of the student exchange programme within Estonian Universities
 
