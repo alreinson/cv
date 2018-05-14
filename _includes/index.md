@@ -8,7 +8,7 @@ Anna-Liisa Reinson - Tallinn, Estonia -
 
 ### 01/2015 - present
 
-### [Telia Eesti](https://www.telia.ee/), Telia Company / Development Manager & Product Owner / Tallinn, Estonia
+### [Telia Eesti](https://www.telia.ee/), Telia Company / Senior Product Owner / Tallinn, Estonia
 
 Making Mobile apps and Digital Sales Environments :)
 
