@@ -6,7 +6,17 @@ Anna-Liisa Reinson - Tallinn, Estonia -
 
 ## Experience
 
-### 01/2015 - present
+### 06/2015 - present
+
+### [Insly Ltd](https://www.insly.com/), Product Owner / Tallinn, Estonia
+
+My main responsibility is driving one of Insly's three main strategic goals - Scalability. This includes assessing and improving the state of our existing systems and product functionality as well as planning new features. The Scalability roadmap initiatives have already achieved an average of 60% decrease in development hours spent on standardized features. 
+
+On a daily basis, I take care of defining business requirements for upcoming feature developments and the planning of resources of the development teams working on these features. I also spend a significant amount of time on planning and organizing training and mentoring activities for other Product Owners in the company.
+
+Insly is a B2B Saas platform offering an end-to-end solution for insurance brokers. It covers quoting, issuing policies, accounting and insurer reporting for Broker companies and MGAs.
+
+### 01/2015 - 06/2018
 
 ### [Telia Eesti](https://www.telia.ee/), Telia Company / Senior Product Owner / Tallinn, Estonia
 
