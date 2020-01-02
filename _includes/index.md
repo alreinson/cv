@@ -73,9 +73,9 @@ The European Central Bank (ECB) is responsible for defining and implementing mon
 
 ### 02/2004 – 08/2013
 
-### Graphic Designer & Web Developer / Freelance / Tallinn, Estonia
+### Graphic Designer, Developer, Analyst / Freelance / Tallinn, Estonia
 
-As a freelancer, my work of choice was mostly logo and CVI creation, but I also did website and digital banner design.
+As a freelancer, my work consists mainly of snslysis, planning and project management work for digital application and eCommerce projects. I sometimes still take pride in making small and cute marketing type websites.
 
 ## Education
 
@@ -105,12 +105,12 @@ Topic of Thesis: “Developing a communication strategy for The Estonian Childre
 
 
 ## Languages
-I speak fluent English and Estonian. I can understand and converse in German, Russian and Finnish, however I feel they still need a bit of work.
+I speak fluent English and Estonian. I can understand and converse in German, Russian and Finnish, however I feel these still need a bit of work.
 
 
 ## Computer skills:	
 
-Atlassian's Jira and Confluence, MS Office, Adobe CS, SPSS, OpenText Livelink, HTML and CSS programming, learning Python :)
+Atlassian's Jira and Confluence, Google Analytics, Optimize, Adobe CS, SPSS, OpenText Livelink, HTML and CSS programming, learning Python :)
 
 
 ## Driver’s License:	
