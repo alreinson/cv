@@ -3,8 +3,8 @@ Anna-Liisa Reinson - Tallinn, Estonia -
 
 
 > Thank you for finding your way here. I am a computer geek at heart and now also by profession. My career path let me dip my toes into the world of digital marketing and advertising, after which took a deep dive into technology - most recently into eGovernance. My passion is making sense of the old and the new in software development and making it all work as the user needs it to work. 
-
-I am currently responsible for creating delightful User Experiences and amazing Products as the Head of the Product and CX team at the governmental startup e-Residency of Estonia. Feel free to have a look around and should you have any questions, don't hesitate to ask.
+>
+> I am currently responsible for creating delightful User Experiences and amazing Products as the Head of the Product and CX team at the governmental startup e-Residency of Estonia. Feel free to have a look around and should you have any questions, don't hesitate to ask.
 
 ## Experience
 
