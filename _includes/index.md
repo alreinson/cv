@@ -77,7 +77,7 @@ The European Central Bank (ECB) is responsible for defining and implementing mon
 
 ### Graphic Designer, Developer, Analyst / Freelance / Tallinn, Estonia
 
-As a freelancer, my work consists mainly of snslysis, planning and project management work for digital application and eCommerce projects. I sometimes still take pride in making small and cute marketing type websites.
+As a freelancer, my work consists mainly of business analysis, product development planning and project management work for digital application and eCommerce projects. I sometimes still take pride in making small and cute marketing type websites.
 
 ## Education
 
