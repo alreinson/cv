@@ -6,15 +6,23 @@ Anna-Liisa Reinson - Tallinn, Estonia -
 
 ## Experience
 
-### 06/2015 - present
+### 06/2019 - Present
+
+### [e-Residency / Enterprise Estonia](e-resident.gov.ee) / Head of Product and CX team / Tallinn, Estonia 
+
+As the head of the product and customer experience team, I am responsible for developing and driving the Customer Experience strategy of the e-Residency programme. We work with several governmental and private institutions responsible for the quality of the different stages in our processes. Through this cooperation, we are able to change and develop the Estonian eGovernment systems making them accessible to non-residents in the same way Estonians have used them for decades. This essentially means making sure our applicants experience an intuitive and logical customer journey starting from finding out about e-Residency to running a successful business in Estonia and everything in between. In addition to working with our current solutions, my role is to take this journey to the next level looking through the eyes of an e-resident and plan for what e-Residency could bring to the world in the future.
+
+The e-Residency programme itself acts as a startup within the government of Estonia combining the e-government services offered by the Estonian government as a full package for non-residents to use equally to residents.
+
+### 06/2018 - 06/2019
 
 ### [Insly Ltd](https://www.insly.com/) / Product Owner / Tallinn, Estonia
 
-My main responsibility is driving one of Insly's three main strategic goals - Scalability. This includes assessing and improving the state of our existing systems and product functionality as well as planning new features. The Scalability roadmap initiatives have already achieved an average of 60% decrease in development hours spent on standardized features. 
+My main responsibility was driving one of Insly's three main strategic goals - Scalability. This included assessing and improving the state of our existing systems and product functionality as well as planning new features. The Scalability roadmap initiatives achieved an average of 60% decrease in development hours spent on standardized features.
 
-On a daily basis, I take care of defining business requirements for upcoming feature developments and the planning of resources of the development teams working on these features. I also spend a significant amount of time on planning and organizing training and mentoring activities for other Product Owners in the company.
+On a daily basis, I took care of defining business requirements for upcoming feature developments as well as the planning of resources of the development teams working on these features. I also spent a significant amount of time on planning and organizing training and mentoring activities for other Product Owners in the company.
 
-Insly is a B2B Saas platform offering an end-to-end solution for insurance brokers. It covers quoting, issuing policies, accounting and insurer reporting for Broker companies and MGAs.
+Insly is a B2B Saas platform offering an end-to-end solution for insurance brokers, which covers quoting, issuing policies, accounting and insurer reporting.
 
 ### 01/2015 - 06/2018
 
