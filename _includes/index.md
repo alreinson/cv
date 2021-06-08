@@ -8,7 +8,15 @@ Anna-Liisa Reinson - Tallinn, Estonia -
 
 ## Experience
 
-### 06/2019 - Present
+### 03/2021 - Present
+
+### [INZMO](www.inzmo.com) / Chief Product Officer / Tallinn, Estonia 
+
+### 11/2020 - Present
+
+### [720 CX](www.720.cx) / I consult on Product and Agile Development stuff / Tallinn, Estonia 
+
+### 06/2019 - 03/2021
 
 ### [e-Residency / Enterprise Estonia](e-resident.gov.ee) / Head of Product and CX team / Tallinn, Estonia 
 
