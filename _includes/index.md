@@ -12,11 +12,14 @@ Anna-Liisa Reinson - Tallinn, Estonia -
 
 ### [INZMO](www.inzmo.com) / Chief Product Officer / Tallinn, Estonia 
 
+INZMO is an InsurTech startup that will one day very soon conquer the world. I run their Product stuff.
 
 ### 11/2020 - Present
 
-### [720 CX](www.720.cx) / I consult on Product and Agile Development stuff / Tallinn, Estonia 
+### [720 CX](www.720.cx) / Founding partner / Tallinn, Estonia 
 
+720 Customer Experience is run by 3 practitioners and fans of product & service design, customer experience management, IT development and digital growth.
+Combined we have 24 years of experience from Public sector, Telco, Insurance and Banking industries.
 
 ### 06/2019 - 03/2021
 
